@@ -1,0 +1,7 @@
+name: MineTonightUtils
+main: com.github.minetonight.minetonightutil.MineTonightUtil
+version: 0.1
+website: http://www.minecraftskinsserver.wordpress.com
+author: minetonight
+description: Helper project for my world generators for Bukkit.
+load: startup
